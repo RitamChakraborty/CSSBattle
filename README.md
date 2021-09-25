@@ -21,6 +21,8 @@
 - [#14 - Web Maker Logo](https://cssbattle.dev/play/14)
 - [#15 - Overlap](https://cssbattle.dev/play/15)
 - [#16 - The Eye of the Tiger](https://cssbattle.dev/play/16)
+- [#17 - Fidget Spinner](https://cssbattle.dev/play/17)
+- [#18 - Matrix](https://cssbattle.dev/play/18)
 
 ### Battle #10 - Block
 
