@@ -24,6 +24,11 @@
 - [#17 - Fidget Spinner](https://cssbattle.dev/play/17)
 - [#18 - Matrix](https://cssbattle.dev/play/18)
 - [#19 - Cube](https://cssbattle.dev/play/19)
+- [#20 - Ticket](https://cssbattle.dev/play/20)
+
+### Battle #4 - Display
+
+- [#27 - Look Up](https://cssbattle.dev/play/27)
 
 ### Battle #10 - Block
 
