@@ -23,6 +23,7 @@
 - [#16 - The Eye of the Tiger](https://cssbattle.dev/play/16)
 - [#17 - Fidget Spinner](https://cssbattle.dev/play/17)
 - [#18 - Matrix](https://cssbattle.dev/play/18)
+- [#19 - Cube](https://cssbattle.dev/play/19)
 
 ### Battle #10 - Block
 
