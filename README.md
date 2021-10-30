@@ -45,7 +45,13 @@
 ### Battle #13 - Clip
 
 - [#72 - Sheep](https://cssbattle.dev/play/62)
+- [#75 - Hippo](https://cssblttle.dev/play/75)
 
 ### Battle #14 - ZIndex
 
 - [#78 - Ukulele](https://cssbattle.dev/play/78)
+
+### Battle #16 - Aspect
+
+- [#89 - Summit](https://cssbattle.dev/play/89)
+- [#90 - Eclipse](https://cssbattle.dev/play/90)

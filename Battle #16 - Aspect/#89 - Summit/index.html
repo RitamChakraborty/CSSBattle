@@ -1,0 +1,45 @@
+<div class="c"></div>
+<div class="t"></div>
+<div class="r"></div>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        background: #191919;
+    }
+
+    div {
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%, 0);
+    }
+
+    .c {
+        top: 50px;
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+        background: #F9E492
+    }
+
+    .t {
+        height: 140px;
+        width: 283px;
+        background: #4F77FF;
+        bottom: 0;
+        clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    }
+
+    .r {
+        height: 200px;
+        width: 200px;
+        background: #191919;
+        transform: rotate(45deg);
+        left: 100px;
+        top: 200px;
+        clip-path: circle(54% at -6% -6%);
+    }
+</style>
