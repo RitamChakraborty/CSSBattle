@@ -32,6 +32,7 @@
 ### Battle #4 - Display
 
 - [#21 - SitePoint Logo](https://cssbattle.dev/play/21)
+- [#21 - Clouds](https://cssbattle.dev/play/22)
 - [#27 - Look Up](https://cssbattle.dev/play/27)
 
 ### Battle #10 - Block
