@@ -34,6 +34,7 @@
 - [#21 - SitePoint Logo](https://cssbattle.dev/play/21)
 - [#22 - Clouds](https://cssbattle.dev/play/22)
 - [#23 - Boxception](https://cssbattle.dev/play/23)
+- [#24 - Switches](https://cssbattle.dev/play/24)
 - [#27 - Look Up](https://cssbattle.dev/play/27)
 
 ### Battle #10 - Block
