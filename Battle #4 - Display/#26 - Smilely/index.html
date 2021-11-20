@@ -1,0 +1,55 @@
+<div class="d">
+    <div class="c c1"></div>
+    <div class="p"></div>
+    <div class="c c2"></div>
+</div>
+<div class="s"></div>
+<div class="d">
+    <div class="c c3"></div>
+</div>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        height: 100%;
+        width: 100%;
+        background: #6592CF;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .d {
+        display: flex;
+    }
+
+    .s {
+        height: 0;
+    }
+
+    .c {
+        margin: -10px 0;
+        height: 120px;
+        width: 120px;
+        border-radius: 50%;
+        border: 20px solid;
+        border-color: #060F55 transparent transparent #060F55;
+        box-sizing: border-box;
+    }
+
+    .c1, .c2 {
+        transform: rotate(45deg);
+    }
+
+    .c3 {
+        transform: rotate(225deg);
+    }
+
+    .p {
+        width: 80px;
+    }
+</style>

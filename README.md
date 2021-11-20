@@ -35,6 +35,8 @@
 - [#22 - Clouds](https://cssbattle.dev/play/22)
 - [#23 - Boxception](https://cssbattle.dev/play/23)
 - [#24 - Switches](https://cssbattle.dev/play/24)
+- [#25 - Blossom](https://cssbattle.dev/play/25)
+- [#26 - Similey](https://cssbattle.dev/play/26)
 - [#27 - Look Up](https://cssbattle.dev/play/27)
 
 ### Battle #10 - Block
