@@ -60,3 +60,4 @@
 
 - [#89 - Summit](https://cssbattle.dev/play/89)
 - [#90 - Eclipse](https://cssbattle.dev/play/90)
+- [#90 - Squeeze](https://cssbattle.dev/play/91)
