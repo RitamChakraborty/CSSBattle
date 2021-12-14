@@ -40,6 +40,11 @@
 - [#27 - Look Up](https://cssbattle.dev/play/27)
 - [#28 - Cups & Balls](https://cssbattle.dev/play/28)
 
+### Battle #5 - Inline
+
+- [#29 - Suffocate](https://cssbattle.dev/play/29)
+- [#30 - Horizon](https://cssbattle.dev/play/30)
+
 ### Battle #10 - Block
 
 - [#49 - Stay at Home](https://cssbattle.dev/play/49)
