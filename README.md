@@ -45,6 +45,10 @@
 - [#29 - Suffocate](https://cssbattle.dev/play/29)
 - [#30 - Horizon](https://cssbattle.dev/play/30)
 
+### Battle #6 - Conic
+
+- [#31 - Equals](https://cssbattle.dev/play/31)
+
 ### Battle #10 - Block
 
 - [#49 - Stay at Home](https://cssbattle.dev/play/49)
