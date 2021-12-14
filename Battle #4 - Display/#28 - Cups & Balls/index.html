@@ -1,0 +1,57 @@
+<div class="grid">
+    <div class="g c"></div>
+    <div class="y b"></div>
+    <div class="g b"></div>
+    <div class="y c"></div>
+    <div class="y b r"></div>
+    <div class="g c"></div>
+    <div class="y c"></div>
+    <div class="g b r"></div>
+
+</div>
+<style>
+    *, *::before, *::after {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        background: #1A4341;
+    }
+
+    .b {
+        border-top-left-radius: 50%;
+        border-top-right-radius: 50%;
+    }
+
+    .c {
+        border-radius: 50%;
+    }
+
+    .g {
+        background: #998235;
+    }
+
+    .y {
+        background: #F3AC3C;
+    }
+
+    .r {
+        transform: rotate(180deg);
+    }
+
+    .grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+        position: absolute;
+        left: 70px;
+        top: 90px;
+    }
+
+    .grid div {
+        height: 50px;
+        width: 50px;
+    }
+</style>

@@ -38,6 +38,7 @@
 - [#25 - Blossom](https://cssbattle.dev/play/25)
 - [#26 - Similey](https://cssbattle.dev/play/26)
 - [#27 - Look Up](https://cssbattle.dev/play/27)
+- [#28 - Cups & Balls](https://cssbattle.dev/play/28)
 
 ### Battle #10 - Block
 
