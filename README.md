@@ -48,6 +48,7 @@
 ### Battle #6 - Conic
 
 - [#31 - Equals](https://cssbattle.dev/play/31)
+- [#32 - Band-aid](https://cssbattle.dev/play/32)
 
 ### Battle #10 - Block
 
