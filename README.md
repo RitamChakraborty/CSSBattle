@@ -50,6 +50,10 @@
 - [#31 - Equals](https://cssbattle.dev/play/31)
 - [#32 - Band-aid](https://cssbattle.dev/play/32)
 
+### Battle #7 - Backface
+
+- [#33 - Birdie](https://cssbattle.dev/play/33)
+
 ### Battle #10 - Block
 
 - [#49 - Stay at Home](https://cssbattle.dev/play/49)
