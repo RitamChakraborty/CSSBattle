@@ -53,6 +53,7 @@
 ### Battle #7 - Backface
 
 - [#33 - Birdie](https://cssbattle.dev/play/33)
+- [#34 - Christmas Tree](https://cssbattle.dev/play/34)
 
 ### Battle #10 - Block
 

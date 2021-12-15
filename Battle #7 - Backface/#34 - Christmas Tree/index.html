@@ -1,0 +1,37 @@
+<div class="t t1"></div>
+<div class="t t2"></div>
+<div class="t t3"></div>
+<style>
+    * {
+        background: #007065;
+    }
+
+    body {
+        display: grid;
+        place-items: center;
+        padding-top: 42px;
+        position: relative;
+    }
+
+    .t {
+        height: 100px;
+        width: 250px;
+        background: #FFEECF;
+        clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+        z-index: 3;
+    }
+
+    .t2 {
+        position: relative;
+        background: #F5C181;
+        top: -50px;
+        z-index: 2;
+    }
+
+    .t3 {
+        position: relative;
+        top: -100px;
+        background: #00A79D;
+        z-index: 1;
+    }
+</style>
