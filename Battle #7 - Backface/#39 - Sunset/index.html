@@ -1,0 +1,69 @@
+<div class="a"></div>
+<div class="c"></div>
+<div class="d"></div>
+<div class="e"></div>
+<div class="f"></div>
+<div class="b b1"></div>
+<div class="b b2"></div>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        background: #1A4341;
+    }
+
+    .a, .b {
+        position: absolute;
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+        border-radius: 50%;
+    }
+
+    .b {
+        height: 200px;
+        width: 200px;
+        background: #998235;
+    }
+
+    .a {
+        height: 250px;
+        width: 250px;
+        background: #F3AC3C;
+    }
+
+    .c, .d, .e, .f {
+        position: absolute;
+        height: 20px;
+        width: 100%;
+        background: #1A4341
+    }
+
+    .c {
+        height: 100px
+    }
+
+    .d {
+        top: 120px
+    }
+
+    .e {
+        top: 160px;
+    }
+
+    .f {
+        height: 100px;
+        bottom: 0;
+    }
+
+    .b1 {
+        clip-path: polygon(0 0, 100% 0, 100% 30px, 0 30px);
+    }
+
+    .b2 {
+        clip-path: polygon(0 170px, 100% 170px, 100% 100%, 0 100%);
+    }
+</style>

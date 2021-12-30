@@ -58,6 +58,7 @@
 - [#36 - Interleaved](https://cssbattle.dev/play/36)
 - [#37 - Tunnel](https://cssbattle.dev/play/37)
 - [#38 - Not Simply Square](https://cssbattle.dev/play/38)
+- [#38 - Sunset](https://cssbattle.dev/play/39)
 - [#40 - Letter B](https://cssbattle.dev/play/40)
 
 ### Battle #10 - Block
