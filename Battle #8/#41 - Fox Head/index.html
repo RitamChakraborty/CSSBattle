@@ -1,0 +1,77 @@
+<div class="c">
+    <div class="h a"></div>
+    <div class="h b"></div>
+</div>
+<div class="d">
+    <div class="h a"></div>
+    <div class="h b"></div>
+</div>
+<div class="e">
+    <div class="r p"></div>
+    <div class="r q"></div>
+</div>
+<style>
+    * {
+        padding: 0;
+        margin: 0;
+    }
+
+    body {
+        background: #293462;
+    }
+
+    .c {
+        position: absolute;
+        height: 350px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .h {
+        height: 190px;
+        width: 100px;
+        background: #FE5F55;
+        border-radius: 40px;
+    }
+
+    .a {
+        clip-path: polygon(50% 0, 100% 0, 100% 100%, 50% 100%);
+    }
+
+    .b {
+        clip-path: polygon(0 0, 50% 0, 50% 100%, 0% 100%);
+    }
+
+    .d {
+        position: absolute;
+        bottom: 0;
+        height: 50px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .d .h {
+        background: #293462;
+    }
+
+    .e {
+        position: absolute;
+        height: 310px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px
+    }
+
+    .r {
+        height: 30px;
+        width: 30px;
+        background: #293462;
+        border-radius: 50%;
+    }
+</style>
