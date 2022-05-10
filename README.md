@@ -60,15 +60,21 @@
 - [#38 - Not Simply Square](https://cssbattle.dev/play/38)
 - [#38 - Sunset](https://cssbattle.dev/play/39)
 - [#40 - Letter B](https://cssbattle.dev/play/40)
-
-### Battle #10 - Block
-
 - [#41 - Fox Head](https://cssbattle.dev/play/41)
+
+### Battle #8 - Transition
+
 - [#42 - Baby](https://cssbattle.dev/play/42)
 - [#43 - Wrench](https://cssbattle.dev/play/43)
 - [#44 - Stripes](https://cssbattle.dev/play/44)
+
+### Battle #9 - Margin
+
 - [#45 - Magical Tree](https://cssbattle.dev/play/45)
 - [#46 - Mountains](https://cssbattle.dev/play/46)
+
+### Battle #10 - Block
+
 - [#47 - Corona Virus](https://cssbattle.dev/play/47)
 - [#48 - Wash Your Hands](https://cssbattle.dev/play/48)
 - [#49 - Stay at Home](https://cssbattle.dev/play/49)
