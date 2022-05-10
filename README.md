@@ -68,6 +68,8 @@
 - [#43 - Wrench](https://cssbattle.dev/play/43)
 - [#44 - Stripes](https://cssbattle.dev/play/44)
 - [#45 - Magical Tree](https://cssbattle.dev/play/45)
+- [#46 - Mountains](https://cssbattle.dev/play/46)
+- [#46 - Corona Virus](https://cssbattle.dev/play/47)
 - [#49 - Stay at Home](https://cssbattle.dev/play/49)
 
 ### Battle #12 - Blend
