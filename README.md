@@ -66,6 +66,7 @@
 - [#41 - Fox Head](https://cssbattle.dev/play/41)
 - [#42 - Baby](https://cssbattle.dev/play/42)
 - [#43 - Wrench](https://cssbattle.dev/play/43)
+- [#45 - Magical Tree](https://cssbattle.dev/play/45)
 - [#49 - Stay at Home](https://cssbattle.dev/play/49)
 
 ### Battle #12 - Blend
