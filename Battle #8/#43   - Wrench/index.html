@@ -1,0 +1,33 @@
+<div class="b p"></div>
+<div class="b q"></div>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        background: #6592CF;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .b {
+        margin-top: 2px;
+        height: 182px;
+        width: 100px;
+        border-radius: 70px;
+        border: 30px solid #243D83;
+    }
+
+    .p {
+        margin-right: -15px;
+        clip-path: polygon(90px 0, 100% 0, 100% 100%, 90px 100%);
+    }
+
+    .q {
+        margin-left: -15px;
+        clip-path: polygon(0 0, 70px 0, 70px 100%, 0% 100%);
+    }
+</style>
