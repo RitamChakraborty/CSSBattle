@@ -64,6 +64,7 @@
 ### Battle #10 - Block
 
 - [#41 - Fox Head](https://cssbattle.dev/play/41)
+- [#42 - Baby](https://cssbattle.dev/play/42)
 - [#49 - Stay at Home](https://cssbattle.dev/play/49)
 
 ### Battle #12 - Blend
