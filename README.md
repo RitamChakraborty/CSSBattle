@@ -78,6 +78,7 @@
 - [#47 - Corona Virus](https://cssbattle.dev/play/47)
 - [#48 - Wash Your Hands](https://cssbattle.dev/play/48)
 - [#49 - Stay at Home](https://cssbattle.dev/play/49)
+- [#50 - Use Hand Sanitizer](https://cssbattle.dev/play/50)
 - [#51 - Wear a Mask](https://cssbattle.dev/play/51)
 - [#52 - Break the Chain](https://cssbattle.dev/play/52)
 
