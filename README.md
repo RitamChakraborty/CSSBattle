@@ -84,6 +84,7 @@
 
 ### Battle #11 - Overflow
 
+- [#53 - Pastel Logo](https://cssbattle.dev/play/53)
 - [#56 - Skull](https://cssbattle.dev/play/56)
 
 ### Battle #12 - Blend
