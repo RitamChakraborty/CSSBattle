@@ -87,6 +87,7 @@
 - [#53 - Pastel Logo](https://cssbattle.dev/play/53)
 - [#54 - Black Lives Matter](https://cssbattle.dev/play/54)
 - [#56 - Skull](https://cssbattle.dev/play/56)
+- [#57 - Pillars](https://cssbattle.dev/play/57)
 
 ### Battle #12 - Blend
 
