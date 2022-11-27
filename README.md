@@ -88,6 +88,7 @@
 - [#54 - Black Lives Matter](https://cssbattle.dev/play/54)
 - [#56 - Skull](https://cssbattle.dev/play/56)
 - [#57 - Pillars](https://cssbattle.dev/play/57)
+- [#58 - Rose](https://cssbattle.dev/play/58)
 
 ### Battle #12 - Blend
 
