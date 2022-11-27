@@ -89,6 +89,7 @@
 - [#56 - Skull](https://cssbattle.dev/play/56)
 - [#57 - Pillars](https://cssbattle.dev/play/57)
 - [#58 - Rose](https://cssbattle.dev/play/58)
+- [#59 - Earth](https://cssbattle.dev/play/59)
 
 ### Battle #12 - Blend
 
