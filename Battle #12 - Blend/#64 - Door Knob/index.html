@@ -1,0 +1,64 @@
+<div class="c m a"></div>
+<div class="c m b"></div>
+<div class="c m d"></div>
+<div class="e">
+    <div class="c f"></div>
+    <div class="c f"></div>
+</div>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        background: #191919;
+    }
+
+    .c {
+        border-radius: 50%;
+    }
+
+    .m {
+        position: absolute;
+        transform: translate(-50%, -50%);
+        left: 50%;
+        top: 50%;
+    }
+
+    .a {
+        height: 160px;
+        width: 160px;
+        background: #824B20;
+    }
+
+    .b {
+        height: 100px;
+        width: 100px;
+        background: #E08027;
+    }
+
+    .d {
+        height: 80px;
+        width: 80px;
+        border: 20px solid #FFF58F;
+        clip-path: polygon(0 50%, 100% 50%, 100% 100%, 0% 100%);
+    }
+
+    .e {
+        position: absolute;
+        height: 300px;
+        width: 400px;
+        display: flex;
+        gap: 80px;
+        justify-content: center;
+        z-index: 5;
+        padding-top: 140px;
+    }
+
+    .f {
+        height: 20px;
+        width: 20px;
+        background: #FFF58F;
+    }
+</style>
