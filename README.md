@@ -94,6 +94,7 @@
 
 ### Battle #12 - Blend
 
+- [#61 - ImprovMX](https://cssbattle.dev/play/61)
 - [#62 - Sunset](https://cssbattle.dev/play/62)
 
 ### Battle #13 - Clip
