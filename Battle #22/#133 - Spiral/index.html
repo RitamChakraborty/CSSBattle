@@ -1,0 +1,70 @@
+<div class="s1"></div>
+<div class="s2"></div>
+<div class="s3"></div>
+<div class="s4"></div>
+<div class="c1"></div>
+<div class="c2"></div>
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        background: #F5D6B4;
+    }
+
+    div {
+        position: absolute;
+    }
+
+    .s1, .s2, .s3, .s4 {
+        aspect-ratio: 1;
+        border-radius: 50%;
+        border: 20px solid #D86F45;
+        clip-path: polygon(0 0, 100% 0, 100% 50.5%, 0 50.5%);
+        transform: translate(-50%, 0);
+    }
+
+    .s1 {
+        width: 80px;
+        top: 110px;
+
+        left: 50%;
+    }
+
+    .s2 {
+        width: 120px;
+        rotate: 180deg;
+        right: 220px;
+        top: 90px;
+    }
+
+    .s3 {
+        width: 160px;
+        top: 70px;
+        left: 50%;
+    }
+
+    .s4 {
+        width: 200px;
+        rotate: 180deg;
+        right: 220px;
+        top: 50px;
+    }
+
+    .c1, .c2 {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background: #D86F45;
+        left: 160px;
+        top: 140px;
+    }
+
+    .c2 {
+        left: 80px;
+    }
+</style>

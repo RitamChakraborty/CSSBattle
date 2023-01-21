@@ -115,3 +115,7 @@
 - [#90 - Eclipse](https://cssbattle.dev/play/90)
 - [#91 - Reflection](https://cssbattle.dev/play/91)
 - [#92 - Squeeze](https://cssbattle.dev/play/91)
+
+### Battle #22 - Grid
+
+- [#133 - Spiral](https://cssbattle.div/play/133)
