@@ -99,6 +99,7 @@
 - [#63 - Command Key](https://cssbattle.dev/play/63)
 - [#64 - Door Knob](https://cssbattle.dev/play/64)
 - [#65 - Max Volume](https://cssbattle.dev/play/65)
+- [#66 - Batmicky](https://cssbattle.dev/play/66)
 
 ### Battle #13 - Clip
 
