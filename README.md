@@ -101,6 +101,8 @@
 - [#65 - Max Volume](https://cssbattle.dev/play/65)
 - [#66 - Batmicky](https://cssbattle.dev/play/66)
 - [#67 - Video Reel](https://cssbattle.dev/play/67)
+- [#68 - Beel](https://cssbattle.dev/play/68)
+- [#69 - PushOwl](https://cssbattle.dev/play/69)
 
 ### Battle #13 - Clip
 

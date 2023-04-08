@@ -1,0 +1,81 @@
+<div class="n c"></div>
+<div class="a"></div>
+<div class="a b"></div>
+<div class="f c">
+    <div class="d"></div>
+    <div class="d"></div>
+</div>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        background: #191919;
+    }
+
+    .c {
+        transform: translate(-50%, 0);
+        left: 50%;
+    }
+
+    .n {
+        height: 60px;
+        width: 121px;
+        position: absolute;
+        background: #E08027;
+        clip-path: polygon(50% 100%, 0 0, 100% 0);
+        bottom: 78px;
+    }
+
+    .a {
+        position: absolute;
+        height: 114px;
+        width: 114px;
+        background: #E08027;
+        top: 77px;
+        border-radius: 0 50% 50% 50%;
+        left: 89px;
+    }
+
+    .b {
+        height: 114px;
+        width: 115px;
+        top: 66.7px;
+        left: 186px;
+        border-radius: 50% 0 50% 50%;
+        border: #191919 solid 11px;
+    }
+
+    .f {
+        position: absolute;
+        width: 300px;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        gap: 18px;
+        top: 89px
+    }
+
+    .d {
+        height: 90px;
+        width: 90px;
+        border-radius: 50%;
+        background: #191919;
+        position: relative;
+    }
+
+    .d::after {
+        content: '';
+        position: absolute;
+        height: 13px;
+        width: 13px;
+        border: 9px solid #E08027;
+        border-radius: 50%;
+        clip-path: polygon(0 0, 100% 0, 100% 50%, 0 50%);
+        left: 50%;
+        transform: translate(-50%, 0);
+        top: 35.5px;
+    }
+</style>
