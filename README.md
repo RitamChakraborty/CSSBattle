@@ -100,6 +100,7 @@
 - [#64 - Door Knob](https://cssbattle.dev/play/64)
 - [#65 - Max Volume](https://cssbattle.dev/play/65)
 - [#66 - Batmicky](https://cssbattle.dev/play/66)
+- [#67 - Video Reel](https://cssbattle.dev/play/67)
 
 ### Battle #13 - Clip
 
