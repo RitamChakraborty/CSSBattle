@@ -111,6 +111,7 @@
 
 ### Battle #14 - ZIndex
 
+- [#77 - Notes](https://cssbattle.dev/play/77)
 - [#78 - Ukulele](https://cssbattle.dev/play/78)
 
 ### Battle #16 - Aspect

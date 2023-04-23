@@ -1,0 +1,91 @@
+<div class="d">
+    <div class="c">
+        <div class="a"></div>
+        <div class="b"></div>
+    </div>
+    <div class="c">
+        <div class="a"></div>
+        <div class="b"></div>
+    </div>
+    <div class="c">
+        <div class="a"></div>
+        <div class="b"></div>
+    </div>
+    <div class="c">
+        <div class="a"></div>
+        <div class="b"></div>
+    </div>
+</div>
+<div class="e"></div>
+<div class="e"></div>
+<div class="e"></div>
+<div class="e"></div>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        background: #191919;
+    }
+
+    .d {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        padding-right: 30px
+    }
+
+    .c {
+        display: flex;
+        align-items: end;
+    }
+
+    .b {
+        height: 100px;
+        width: 10px;
+        background: #FE5F55;
+        margin-bottom: 20px;
+    }
+
+    .a {
+        height: 40px;
+        width: 50px;
+        background: #FE5F55;
+        border-radius: 50%;
+        margin-right: -10px;
+    }
+
+    .c:nth-of-type(3) * {
+        background: #A64942;
+    }
+
+    .e {
+        position: absolute;
+        background: #FE5F55;
+        height: 10px;
+        width: 70px;
+        top: 90px;
+        left: 100px
+    }
+
+    .e:nth-of-type(2) {
+        left: 240px;
+        background: #A64942;
+        width: 35px
+    }
+
+    .e:nth-of-type(3) {
+        left: 310px;
+        width: 35px;
+    }
+
+    .e:nth-of-type(4) {
+        top: 110px;
+        left: 310px;
+        width: 35px;
+    }
+</style>
