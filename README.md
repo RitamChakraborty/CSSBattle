@@ -106,7 +106,8 @@
 
 ### Battle #13 - Clip
 
-- [#72 - Sheep](https://cssbattle.dev/play/62)
+- [#70 - Froggy](https://cssbattle.dev/play/70)
+- [#72 - Sheep](https://cssbattle.dev/play/72)
 - [#75 - Hippo](https://cssblttle.dev/play/75)
 
 ### Battle #14 - ZIndex
