@@ -116,6 +116,10 @@
 - [#77 - Notes](https://cssbattle.dev/play/77)
 - [#78 - Ukulele](https://cssbattle.dev/play/78)
 
+### Battle #15 - Odoo
+
+- [#81 - Odoo](https://cssbattle.dev/play/81)
+
 ### Battle #16 - Aspect
 
 - [#89 - Summit](https://cssbattle.dev/play/89)
