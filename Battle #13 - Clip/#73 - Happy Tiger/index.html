@@ -1,0 +1,121 @@
+<div class="r c">
+    <div class="d"></div>
+    <div class="d"></div>
+</div>
+<div class="f c">
+    <div class="c"></div>
+</div>
+<div class="e c">
+    <div></div>
+    <div></div>
+</div>
+<div class="m c"></div>
+<div class="w c">
+    <div></div>
+    <div></div>
+</div>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        background: #F3AC3C;
+    }
+
+    .c {
+        position: absolute;
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+    }
+
+    .f {
+        height: 150px;
+        width: 150px;
+        background: #998235;
+        border-radius: 150px 150px 120px 120px;
+        overflow: hidden;
+    }
+
+    .f div {
+        height: 50px;
+        width: 50px;
+        background: #1A4341;
+        rotate: 45deg;
+        left: 50px;
+        top: 0px
+    }
+
+    .e {
+        top: 9.07rem;
+        display: flex;
+        gap: 60px;
+    }
+
+    .e div {
+        height: 20px;
+        width: 20px;
+        background: #1A4341;
+        border-radius: 50%;
+    }
+
+    .r {
+        display: flex;
+        top: 95px;
+        gap: 50px
+    }
+
+    .r div {
+        height: 60px;
+        width: 60px;
+        background: #998235;
+        border-radius: 100%;
+        position: relative;
+    }
+
+    .d::before {
+        z-index: 2;
+        content: '';
+        position: absolute;
+        height: 40px;
+        width: 40px;
+        background: #1A4341;
+        border-radius: 50%;
+        left: 10px;
+        top: 10px;
+    }
+
+    .m {
+        top: 11.87rem;
+        height: 40px;
+        width: 100px;
+        background: #FFFFFF;
+        border-radius: 20px 20px 50px 50px
+    }
+
+    .w {
+        top: 180px;
+        display: flex;
+    }
+
+    .w::after {
+        position: absolute;
+        content: '';
+        height: 30px;
+        width: 10px;
+        background: #1A4341;
+        left: 25px;
+        top: -5px;
+    }
+
+    .w div {
+        margin: -5px;
+        height: 21px;
+        width: 21px;
+        border-radius: 50%;
+        border: 10px solid #1A4341;
+        clip-path: polygon(0 50%, 100% 50%, 100% 100%, 0% 100%);
+    }
+</style>

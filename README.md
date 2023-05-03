@@ -109,6 +109,7 @@
 - [#70 - Froggy](https://cssbattle.dev/play/70)
 - [#71 - Elephant](https://cssbattle.dev/play/71)
 - [#72 - Sheep](https://cssbattle.dev/play/72)
+- [#73 - Happy Tiger](https://cssbattle.dev/play/73)
 - [#75 - Hippo](https://cssblttle.dev/play/75)
 
 ### Battle #14 - ZIndex
