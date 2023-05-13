@@ -110,6 +110,7 @@
 - [#71 - Elephant](https://cssbattle.dev/play/71)
 - [#72 - Sheep](https://cssbattle.dev/play/72)
 - [#73 - Happy Tiger](https://cssbattle.dev/play/73)
+- [#74 - Danger Noodle](https://cssbattle.dev/play/74)
 - [#75 - Hippo](https://cssblttle.dev/play/75)
 
 ### Battle #14 - ZIndex
