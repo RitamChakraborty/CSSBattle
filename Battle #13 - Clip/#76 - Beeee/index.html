@@ -1,0 +1,66 @@
+<div class="b">
+    <div></div>
+    <div></div>
+    <div></div>
+</div>
+<div class="w"></div>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        background: #998235;
+    }
+
+    .b {
+        position: absolute;
+        inset: 0;
+        top: 75px;
+        margin: auto;
+        height: 75px;
+        width: 150px;
+        border-radius: 75px;
+        background: #EFF33C;
+        display: flex;
+        gap: 10px;
+        overflow: hidden;
+    }
+
+    .b div {
+        width: 25px;
+        background: #191919;
+    }
+
+    .b::before {
+        content: '';
+        position: absolute;
+        right: 20px;
+        top: 20px;
+        height: 15px;
+        width: 15px;
+        border-radius: 50%;
+        background: #191919;
+    }
+
+    .w {
+        height: 75px;
+        width: 75px;
+        background: #FFFFFF;
+        position: absolute;
+        left: 125px;
+        top: 75px;
+        border-radius: 50% 50% 0 50%;
+    }
+
+    .w::after {
+        content: '';
+        height: 75px;
+        width: 75px;
+        background: #FFFFFF;
+        position: absolute;
+        left: 75px;
+        border-radius: 50% 50% 50% 0;
+    }
+</style>

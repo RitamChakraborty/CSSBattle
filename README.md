@@ -112,6 +112,7 @@
 - [#73 - Happy Tiger](https://cssbattle.dev/play/73)
 - [#74 - Danger Noodle](https://cssbattle.dev/play/74)
 - [#75 - Hippo](https://cssblttle.dev/play/75)
+- [#76 - Beeee](https://cssblttle.dev/play/76)
 
 ### Battle #14 - ZIndex
 
