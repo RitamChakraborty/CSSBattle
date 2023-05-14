@@ -130,6 +130,10 @@
 - [#91 - Reflection](https://cssbattle.dev/play/91)
 - [#92 - Squeeze](https://cssbattle.dev/play/91)
 
+### Battle #21 - Rotate
+
+- [#130 - Letter O](https://cssbattle.dev/play/130)
+
 ### Battle #22 - Grid
 
 - [#133 - Spiral](https://cssbattle.div/play/133)
