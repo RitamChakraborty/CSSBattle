@@ -1,0 +1,83 @@
+<div class="a c m"></div>
+<div class="d m"></div>
+<div class="b c m"></div>
+<div class="e t1 x c"></div>
+<div class="e t2 x c"></div>
+<div class="e r m c"></div>
+<div class="e t1 y c"></div>
+<div class="e t2 y c"></div>
+
+<style>
+    body {
+        background: #6592CF;
+    }
+
+    .c {
+        border-radius: 50%;
+        border: 10.3px solid #243D83;
+    }
+
+    .m {
+        position: absolute;
+        inset: 0;
+        margin: auto
+    }
+
+    .a {
+        top: 20px;
+        height: 150px;
+        width: 150px;
+    }
+
+    .b {
+        top: 219px;
+        height: 100px;
+        width: 100px;
+        clip-path: polygon(15px 0, calc(100% - 15px) 0, calc(100% - 15px) 33px, 15px 33px);
+    }
+
+    .d {
+        height: 100px;
+        width: 85px;
+        background: #6592CF;
+        top: 150px;
+    }
+
+    .e {
+        height: 30px;
+        width: 30px;
+        background: #6592CF;
+        position: absolute;
+    }
+
+    .e::after {
+        content: '';
+        position: absolute;
+        height: 10px;
+        width: 10px;
+        border-radius: 50%;
+        background: #243D83;
+        inset: 0;
+        margin: auto;
+    }
+
+    .r {
+        top: -140px;
+    }
+
+    .x {
+        left: 105.5px;
+    }
+
+    .t1 {
+        top: 95.5px;
+    }
+
+    .t2 {
+        top: 165.5px;
+    }
+
+    .y {
+        right: 105.5px;
+    }
+</style>
