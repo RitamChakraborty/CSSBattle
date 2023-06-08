@@ -124,6 +124,7 @@
 ### Battle #15 - Odoo
 
 - [#81 - Odoo](https://cssbattle.dev/play/81)
+- [#82 - Diamond Cut](https://cssbattle.dev/play/82)
 
 ### Battle #16 - Aspect
 
