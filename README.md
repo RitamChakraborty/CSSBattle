@@ -128,6 +128,7 @@
 - [#83 - Supernova](https://cssbattle.dev/play/83)
 - [#84 - Junction](https://cssbattle.dev/play/84)
 - [#85 - Pythagoras](https://cssbattle.dev/play/85)
+- [#86 - Pythagoras](https://cssbattle.dev/play/86)
 
 ### Battle #16 - Aspect
 
