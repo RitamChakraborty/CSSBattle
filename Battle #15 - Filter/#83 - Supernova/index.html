@@ -1,0 +1,57 @@
+<div class="a b"></div>
+<div class="a c"></div>
+<div class="a d"></div>
+<div class="a e"></div>
+<div class="f"></div>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        background: #243D83;
+    }
+
+    .a {
+        height: 100px;
+        width: 100px;
+        background: #6592CF;
+        clip-path: circle(50% at 50% 100%);
+        position: absolute;
+    }
+
+    .b {
+        rotate: -45deg;
+        top: 22px;
+        left: 72px;
+    }
+
+    .c {
+        rotate: 45deg;
+        top: 22px;
+        right: 72px;
+    }
+
+    .d {
+        rotate: -135deg;
+        bottom: 22px;
+        left: 72px;
+    }
+
+    .e {
+        rotate: 135deg;
+        bottom: 22px;
+        right: 72px;
+    }
+
+    .f {
+        position: absolute;
+        inset: 0;
+        margin: auto;
+        height: 60px;
+        aspect-ratio: 1;
+        border-radius: 50%;
+        background: #EEB850;
+    }
+</style>
