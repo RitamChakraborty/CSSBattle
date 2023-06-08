@@ -119,6 +119,7 @@
 - [#77 - Notes](https://cssbattle.dev/play/77)
 - [#78 - Ukulele](https://cssbattle.dev/play/78)
 - [#79 - Tambourine](https://cssbattle.dev/play/79)
+- [#80 - Piano](https://cssbattle.dev/play/80)
 
 ### Battle #15 - Odoo
 
