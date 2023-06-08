@@ -129,6 +129,8 @@
 - [#84 - Junction](https://cssbattle.dev/play/84)
 - [#85 - Pythagoras](https://cssbattle.dev/play/85)
 - [#86 - Pythagoras](https://cssbattle.dev/play/86)
+- [#87 - Building Blocks](https://cssbattle.dev/play/87)
+- [#88 - Tight Corner](https://cssbattle.dev/play/88)
 
 ### Battle #16 - Aspect
 
