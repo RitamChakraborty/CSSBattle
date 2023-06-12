@@ -58,7 +58,7 @@
 - [#36 - Interleaved](https://cssbattle.dev/play/36)
 - [#37 - Tunnel](https://cssbattle.dev/play/37)
 - [#38 - Not Simply Square](https://cssbattle.dev/play/38)
-- [#38 - Sunset](https://cssbattle.dev/play/39)
+- [#39 - Sunset](https://cssbattle.dev/play/39)
 - [#40 - Letter B](https://cssbattle.dev/play/40)
 - [#41 - Fox Head](https://cssbattle.dev/play/41)
 
@@ -90,7 +90,7 @@
 - [#57 - Pillars](https://cssbattle.dev/play/57)
 - [#58 - Rose](https://cssbattle.dev/play/58)
 - [#59 - Earth](https://cssbattle.dev/play/59)
-- [#59 - Evil Triangles](https://cssbattle.dev/play/60)
+- [#60 - Evil Triangles](https://cssbattle.dev/play/60)
 
 ### Battle #12 - Blend
 
@@ -137,7 +137,8 @@
 - [#89 - Summit](https://cssbattle.dev/play/89)
 - [#90 - Eclipse](https://cssbattle.dev/play/90)
 - [#91 - Reflection](https://cssbattle.dev/play/91)
-- [#92 - Squeeze](https://cssbattle.dev/play/91)
+- [#92 - Squeeze](https://cssbattle.dev/play/92)
+- [#93 - Great Wall](https://cssbattle.dev/play/92)
 
 ### Battle #21 - Rotate
 

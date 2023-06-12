@@ -1,0 +1,93 @@
+<div class="bluecircle">
+    <div class="sun"></div>
+    <div class="a"></div>
+    <div class="a b"></div>
+    <div class="a c"></div>
+    <div class="x"></div>
+    <div class="x y"></div>
+    <div class="x z"></div>
+    <div class="m"></div>
+    <div class="m n"></div>
+    <div class="m p"></div>
+</div>
+<style>
+    body {
+        background: #4F77FF;
+    }
+
+    .bluecircle {
+        /* position: absolute;
+      height: 100px;
+      width: 100px;
+      border: solid 200px #4F77FF;
+      border-radius: 50%; */
+        background: #191919;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        inset: 0;
+        clip-path: circle(100px at 50% 50%);
+    }
+
+    .sun {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background: #F9E492;
+        position: absolute;
+        left: 140px;
+        top: 90px;
+    }
+
+    .a {
+        height: 17px;
+        width: 20px;
+        background: #D6B73F;
+        transform: skewY(-33deg);
+        position: absolute;
+        left: 200px;
+        top: 164.5px;
+    }
+
+    .a.b {
+        top: 191.5px;
+    }
+
+    .a.c {
+        top: 216.5px;
+    }
+
+    .x {
+        height: 16px;
+        width: 200px;
+        background: #F9E492;
+        position: absolute;
+        left: 0px;
+        top: 172px;
+    }
+
+    .x.y {
+        top: 198px;
+    }
+
+    .x.z {
+        top: 224px;
+    }
+
+    .m {
+        height: 16px;
+        width: 180px;
+        background: #F9E492;
+        position: absolute;
+        right: 0px;
+        top: 159px;
+    }
+
+    .m.n {
+        top: 184.5px;
+    }
+
+    .m.p {
+        top: 211px;
+    }
+</style>
