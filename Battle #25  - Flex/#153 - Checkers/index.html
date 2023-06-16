@@ -1,0 +1,64 @@
+<div class="a">
+    <div></div>
+    <div class="b"></div>
+    <div></div>
+    <div class="b"></div>
+    <div></div>
+    <div class="b"></div>
+    <div></div>
+    <div class="b"></div>
+    <div></div>
+    <div class="b"></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div class="b"></div>
+    <div></div>
+    <div class="b"></div>
+    <div></div>
+    <div class="b"></div>
+    <div></div>
+    <div class="b"></div>
+    <div></div>
+    <div class="b"></div>
+    <div></div>
+</div>
+<style>
+    body {
+        background: #E3516E;
+    }
+
+    .a {
+        height: 200px;
+        width: 200px;
+        position: absolute;
+        inset: 0;
+        margin: auto;
+        background: transparent !important;
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+    }
+
+    div {
+        height: 40px;
+        width: 40px;
+        position: relative;
+    }
+
+    div:nth-child(odd) {
+        background: #FADE8B;
+    }
+
+    .b::after {
+        content: '';
+        position: absolute;
+        height: 20px;
+        width: 20px;
+        border-radius: 50%;
+        background: #FADE8B;
+        inset: 0;
+        margin: auto;
+    }
+</style>

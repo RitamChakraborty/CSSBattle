@@ -153,3 +153,4 @@
 - [#150 - Finger Heart](https://cssbattle.dev/play/150)
 - [#151 - Pawn](https://cssbattle.dev/play/151)
 - [#152 - Rook](https://cssbattle.dev/play/152)
+- [#153 - Checkers](https://cssbattle.dev/play/153)
