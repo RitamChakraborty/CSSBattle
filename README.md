@@ -140,6 +140,7 @@
 - [#92 - Squeeze](https://cssbattle.dev/play/92)
 - [#93 - Great Wall](https://cssbattle.dev/play/93)
 - [#94 - Ripples](https://cssbattle.dev/play/94)
+- [#95 - Pokeball](http://cssbattle.dev/play/95)
 
 ### Battle #21 - Rotate
 
