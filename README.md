@@ -138,7 +138,8 @@
 - [#90 - Eclipse](https://cssbattle.dev/play/90)
 - [#91 - Reflection](https://cssbattle.dev/play/91)
 - [#92 - Squeeze](https://cssbattle.dev/play/92)
-- [#93 - Great Wall](https://cssbattle.dev/play/92)
+- [#93 - Great Wall](https://cssbattle.dev/play/93)
+- [#94 - Ripples](https://cssbattle.dev/play/94)
 
 ### Battle #21 - Rotate
 
