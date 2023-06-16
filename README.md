@@ -146,4 +146,10 @@
 
 ### Battle #22 - Grid
 
-- [#133 - Spiral](https://cssbattle.div/play/133)
+- [#133 - Spiral](https://cssbattle.dev/play/133)
+
+### Battle #25 - Flex
+
+- [#150 - Finger Heart](https://cssbattle.dev/play/150)
+- [#151 - Pawn](https://cssbattle.dev/play/151)
+- [#152 - Rook](https://cssbattle.dev/play/152)
