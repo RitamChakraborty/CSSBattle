@@ -143,6 +143,9 @@
 - [#95 - Pokeball](http://cssbattle.dev/play/95)
 - [#96 - Mandala](http://cssbattle.dev/play/96)
 
+### Battle #19 - Spacing
+
+- [#115 - Droplet](https://cssbattle.dev/play/115)
 
 ### Battle #21 - Rotate
 
