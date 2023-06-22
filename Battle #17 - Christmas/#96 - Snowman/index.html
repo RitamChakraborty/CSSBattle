@@ -1,0 +1,81 @@
+<div class="a"></div>
+<div class="b"></div>
+<div class="c"></div>
+<div class="d"></div>
+<div class="e"></div>
+<style>
+    body {
+        background: #AC474B;
+    }
+
+    div {
+        position: absolute;
+        inset: 0;
+        margin: auto;
+    }
+
+    .a {
+        height: 100px;
+        width: 100px;
+        background: white;
+        border-radius: 50%;
+        top: 90px;
+        clip-path: polygon(0 12px, 100% 12px, 100% 100%, 0 100%)
+    }
+
+    .b {
+        height: 10px;
+        width: 60px;
+        background: #FFA63F;
+        border-radius: 10px;
+        bottom: 4px;
+    }
+
+    .c {
+        height: 60px;
+        width: 60px;
+        border-radius: 50%;
+        background: white;
+        bottom: 50px;
+        clip-path: polygon(0 0, 100% 0, 100% 44px, 0 44px);
+    }
+
+    .c::before,
+    .c::after {
+        content: '';
+        position: absolute;
+        height: 10.5px;
+        width: 10.5px;
+        border-radius: 50%;
+        background: #0E1F2B;
+        top: 18px;
+        left: 15px;
+    }
+
+    .c::after {
+        left: 35px;
+    }
+
+    .d {
+        height: 5px;
+        width: 60px;
+        background: #0E1F2B;
+        bottom: 105px;
+    }
+
+    .e {
+        height: 40px;
+        width: 40px;
+        background: #0E1F2B;
+        bottom: 150px;
+    }
+
+    .e::before {
+        content: '';
+        position: absolute;
+        height: 10px;
+        width: 100%;
+        background: white;
+        top: 15px;
+    }
+</style>
