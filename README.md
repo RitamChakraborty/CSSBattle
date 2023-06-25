@@ -146,6 +146,7 @@
 ### Battle #17 - Christmas
 
 - [#97 - Snowman](http://cssbattle.dev/play/97)
+- [#98 - Candle](http://cssbattle.dev/play/98)
 
 ### Battle #19 - Spacing
 
