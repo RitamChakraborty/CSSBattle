@@ -147,6 +147,7 @@
 
 - [#97 - Snowman](http://cssbattle.dev/play/97)
 - [#98 - Candle](http://cssbattle.dev/play/98)
+- [#99 - Gift Box](http://cssbattle.dev/play/99)
 
 ### Battle #19 - Spacing
 
