@@ -149,9 +149,14 @@
 - [#98 - Candle](http://cssbattle.dev/play/98)
 - [#99 - Gift Box](http://cssbattle.dev/play/99)
 
+### Battle #18 - Float
+
+- [#101 - Sharingan](http://cssbattle.dev/play/101)
+- [#102 - One Piece](http://cssbattle.dev/play/102)
+
 ### Battle #19 - Spacing
 
-- [#115 - Droplet](https://cssbattle.dev/play/115)  
+- [#115 - Droplet](https://cssbattle.dev/play/115)
 
 ### Battle #21 - Rotate
 

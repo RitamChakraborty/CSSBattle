@@ -1,0 +1,115 @@
+<div class="a"></div>
+<div class="t"></div>
+<div class="t t1"></div>
+<div class="t t2"></div>
+<div class="b b1"></div>
+<div class="b b2"></div>
+<div class="b b3"></div>
+<div class="b b4"></div>
+<style>
+    body {
+        background: black;
+    }
+
+    .a {
+        position: absolute;
+        inset: 0;
+        margin: auto;
+        height: 100px;
+        width: 150px;
+        border-radius: 100px;
+        background: white;
+        top: 20px;
+    }
+
+    .a::before, .a::after {
+        content: '';
+        position: absolute;
+        inset: 0;
+        margin: auto;
+        height: 40px;
+        width: 50px;
+        background: black;
+        border-radius: 50%;
+    }
+
+    .a::before {
+        left: 60px;
+        transform: rotate(30deg);
+    }
+
+    .a::after {
+        right: 60px;
+        transform: rotate(-30deg);
+    }
+
+    .t {
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        gap: 5px;
+        inset: 0;
+        margin: auto;
+        height: 20px;
+        width: 15px;
+        top: 160px;
+        background: white;
+    }
+
+    .t1 {
+        right: 40px;
+    }
+
+    .t2 {
+        left: 40px;
+    }
+
+    .b {
+        height: 20px;
+        width: 20px;
+        background: white;
+        position: absolute;
+    }
+
+    .b::before, .b::after {
+        content: '';
+        position: absolute;
+        height: 25px;
+        width: 25px;
+        border-radius: 50%;
+        background: white;
+        left: -18.5px;
+    }
+
+    .b::before {
+        top: -10px;
+    }
+
+    .b::after {
+        bottom: -10px;
+    }
+
+    .b1 {
+        right: 266px;
+        bottom: 177px;
+        transform: rotate(45deg);
+    }
+
+    .b2 {
+        right: 266px;
+        top: 197px;
+        transform: rotate(-45deg);
+    }
+
+    .b3 {
+        left: 266px;
+        bottom: 177px;
+        transform: rotate(135deg);
+    }
+
+    .b4 {
+        left: 266px;
+        top: 197px;
+        transform: rotate(-135deg);
+    }
+</style>
