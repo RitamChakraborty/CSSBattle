@@ -158,6 +158,11 @@
 
 - [#115 - Droplet](https://cssbattle.dev/play/115)
 
+### Battle #20 - Hover
+
+- [#122 - Droplet](https://cssbattle.dev/play/122)
+
+
 ### Battle #21 - Rotate
 
 - [#130 - Letter O](https://cssbattle.dev/play/130)
