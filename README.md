@@ -173,3 +173,4 @@
 - [#152 - Rook](https://cssbattle.dev/play/152)
 - [#153 - Checkers](https://cssbattle.dev/play/153)
 - [#154 - Poker Chip](https://cssbattle.dev/play/154)
+- [#156 - Chinese Checkers](https://cssbattle.dev/play/156)
