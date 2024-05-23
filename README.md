@@ -1,6 +1,6 @@
-# CSSBattle
+# [CSSBattle](https://cssbattle.dev)
 
-### Battle #1 - Pilot Battle
+### [Battle #1 - Pilot Battle](https://cssbattle.dev/battle/1)
 
 - [#1 - Simply Square](https://cssbattle.dev/play/1)
 - [#2 - Carrom](https://cssbattle.dev/play/2)
@@ -15,7 +15,7 @@
 - [#11 - Eye of Sauron](https://cssbattle.dev/play/11)
 - [#12 - Wiggly Moustache](https://cssbattle.dev/play/12)
 
-### Battle #2 - Visibility
+### [Battle #2 - Visibility](https://cssbattle.dev/battle/2)
 
 - [#13 - Totally Triangle](https://cssbattle.dev/play/13)
 - [#14 - Web Maker Logo](https://cssbattle.dev/play/14)
@@ -24,12 +24,12 @@
 - [#17 - Fidget Spinner](https://cssbattle.dev/play/17)
 - [#18 - Matrix](https://cssbattle.dev/play/18)
 
-### Battle #3 - Cursor
+### [Battle #3 - Cursor](https://cssbattle.dev/battle/3)
 
 - [#19 - Cube](https://cssbattle.dev/play/19)
 - [#20 - Ticket](https://cssbattle.dev/play/20)
 
-### Battle #4 - Display
+### [Battle #4 - Display](https://cssbattle.dev/battle/4)
 
 - [#21 - SitePoint Logo](https://cssbattle.dev/play/21)
 - [#22 - Clouds](https://cssbattle.dev/play/22)
@@ -40,17 +40,17 @@
 - [#27 - Look Up](https://cssbattle.dev/play/27)
 - [#28 - Cups & Balls](https://cssbattle.dev/play/28)
 
-### Battle #5 - Inline
+### [Battle #5 - Inline](https://cssbattle.dev/battle/5)
 
 - [#29 - Suffocate](https://cssbattle.dev/play/29)
 - [#30 - Horizon](https://cssbattle.dev/play/30)
 
-### Battle #6 - Conic
+### [Battle #6 - Conic](https://cssbattle.dev/battle/6)
 
 - [#31 - Equals](https://cssbattle.dev/play/31)
 - [#32 - Band-aid](https://cssbattle.dev/play/32)
 
-### Battle #7 - Backface
+### [Battle #7 - Backface](https://cssbattle.dev/battle/7)
 
 - [#33 - Birdie](https://cssbattle.dev/play/33)
 - [#34 - Christmas Tree](https://cssbattle.dev/play/34)
@@ -62,18 +62,18 @@
 - [#40 - Letter B](https://cssbattle.dev/play/40)
 - [#41 - Fox Head](https://cssbattle.dev/play/41)
 
-### Battle #8 - Transition
+### [Battle #8 - Transition](https://cssbattle.dev/battle/8)
 
 - [#42 - Baby](https://cssbattle.dev/play/42)
 - [#43 - Wrench](https://cssbattle.dev/play/43)
 - [#44 - Stripes](https://cssbattle.dev/play/44)
 
-### Battle #9 - Margin
+### [Battle #9 - Margin](https://cssbattle.dev/battle/9)
 
 - [#45 - Magical Tree](https://cssbattle.dev/play/45)
 - [#46 - Mountains](https://cssbattle.dev/play/46)
 
-### Battle #10 - Block
+### [Battle #10 - Block](https://cssbattle.dev/battle/10)
 
 - [#47 - Corona Virus](https://cssbattle.dev/play/47)
 - [#48 - Wash Your Hands](https://cssbattle.dev/play/48)
@@ -82,7 +82,7 @@
 - [#51 - Wear a Mask](https://cssbattle.dev/play/51)
 - [#52 - Break the Chain](https://cssbattle.dev/play/52)
 
-### Battle #11 - Overflow
+### [Battle #11 - Overflow](https://cssbattle.dev/battle/11)
 
 - [#53 - Pastel Logo](https://cssbattle.dev/play/53)
 - [#54 - Black Lives Matter](https://cssbattle.dev/play/54)
@@ -92,7 +92,7 @@
 - [#59 - Earth](https://cssbattle.dev/play/59)
 - [#60 - Evil Triangles](https://cssbattle.dev/play/60)
 
-### Battle #12 - Blend
+### [Battle #12 - Blend](https://cssbattle.dev/battle/12)
 
 - [#61 - ImprovMX](https://cssbattle.dev/play/61)
 - [#62 - Sunset](https://cssbattle.dev/play/62)
@@ -104,7 +104,7 @@
 - [#68 - Beel](https://cssbattle.dev/play/68)
 - [#69 - PushOwl](https://cssbattle.dev/play/69)
 
-### Battle #13 - Clip
+### [Battle #13 - Clip](https://cssbattle.dev/battle/13)
 
 - [#70 - Froggy](https://cssbattle.dev/play/70)
 - [#71 - Elephant](https://cssbattle.dev/play/71)
@@ -114,14 +114,14 @@
 - [#75 - Hippo](https://cssblttle.dev/play/75)
 - [#76 - Beeee](https://cssblttle.dev/play/76)
 
-### Battle #14 - ZIndex
+### [Battle #14 - ZIndex](https://cssbattle.dev/battle/14)
 
 - [#77 - Notes](https://cssbattle.dev/play/77)
 - [#78 - Ukulele](https://cssbattle.dev/play/78)
 - [#79 - Tambourine](https://cssbattle.dev/play/79)
 - [#80 - Piano](https://cssbattle.dev/play/80)
 
-### Battle #15 - Odoo
+### [Battle #15 - Odoo](https://cssbattle.dev/battle/15)
 
 - [#81 - Odoo](https://cssbattle.dev/play/81)
 - [#82 - Diamond Cut](https://cssbattle.dev/play/82)
@@ -132,7 +132,7 @@
 - [#87 - Building Blocks](https://cssbattle.dev/play/87)
 - [#88 - Tight Corner](https://cssbattle.dev/play/88)
 
-### Battle #16 - Aspect
+### [Battle #16 - Aspect](https://cssbattle.dev/battle/16)
 
 - [#89 - Summit](https://cssbattle.dev/play/89)
 - [#90 - Eclipse](https://cssbattle.dev/play/90)
@@ -143,36 +143,35 @@
 - [#95 - Pokeball](http://cssbattle.dev/play/95)
 - [#96 - Mandala](http://cssbattle.dev/play/96)
 
-### Battle #17 - Christmas
+### [Battle #17 - Christmas](https://cssbattle.dev/battle/17)
 
 - [#97 - Snowman](http://cssbattle.dev/play/97)
 - [#98 - Candle](http://cssbattle.dev/play/98)
 - [#99 - Gift Box](http://cssbattle.dev/play/99)
 - [#100 - CSSBattle](http://cssbattle.dev/play/100)
 
-### Battle #18 - Float
+### [Battle #18 - Float](https://cssbattle.dev/battle/18)
 
 - [#101 - Sharingan](http://cssbattle.dev/play/101)
 - [#102 - One Piece](http://cssbattle.dev/play/102)
 
-### Battle #19 - Spacing
+### [Battle #19 - Spacing](https://cssbattle.dev/battle/19)
 
 - [#115 - Droplet](https://cssbattle.dev/play/115)
 
-### Battle #20 - Hover
+### [Battle #20 - Hover](https://cssbattle.dev/battle/20)
 
 - [#122 - Droplet](https://cssbattle.dev/play/122)
 
-
-### Battle #21 - Rotate
+### [Battle #21 - Rotate](https://cssbattle.dev/battle/21)
 
 - [#130 - Letter O](https://cssbattle.dev/play/130)
 
-### Battle #22 - Grid
+### [Battle #22 - Grid](https://cssbattle.dev/battle/22)
 
 - [#133 - Spiral](https://cssbattle.dev/play/133)
 
-### Battle #25 - Flex
+### [Battle #25 - Flex](https://cssbattle.dev/battle/25)
 
 - [#150 - Finger Heart](https://cssbattle.dev/play/150)
 - [#151 - Pawn](https://cssbattle.dev/play/151)
@@ -181,6 +180,6 @@
 - [#154 - Poker Chip](https://cssbattle.dev/play/154)
 - [#156 - Chinese Checkers](https://cssbattle.dev/play/156)
 
-### Battle #30 - Gradient
+### [Battle #30 - Gradient](https://cssbattle.dev/battle/30)
 
 - [#192 - Abstract Firefly](https://cssbattle.dev/play/192)
