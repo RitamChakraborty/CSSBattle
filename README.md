@@ -180,3 +180,7 @@
 - [#153 - Checkers](https://cssbattle.dev/play/153)
 - [#154 - Poker Chip](https://cssbattle.dev/play/154)
 - [#156 - Chinese Checkers](https://cssbattle.dev/play/156)
+
+### Battle #30 - Gradient
+
+- [#192 - Abstract Firefly](https://cssbattle.dev/play/192)
