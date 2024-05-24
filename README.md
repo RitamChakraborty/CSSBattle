@@ -158,6 +158,7 @@
 
 ### [Battle #19 - Spacing](https://cssbattle.dev/battle/19)
 
+- [#110 - Sunrays](https://cssbattle.dev/play/110)
 - [#115 - Droplet](https://cssbattle.dev/play/115)
 - [#116 - Headphones](https://cssbattle.dev/play/116)
 
