@@ -154,6 +154,7 @@
 
 - [#101 - Sharingan](http://cssbattle.dev/play/101)
 - [#102 - One Piece](http://cssbattle.dev/play/102)
+- [#103 - Super Saiyan](http://cssbattle.dev/play/103)
 - [#108 - Clow Card](http://cssbattle.dev/play/108)
 
 ### [Battle #19 - Spacing](https://cssbattle.dev/battle/19)

@@ -1,0 +1,80 @@
+<div class="e e1"></div>
+<div class="e e2"></div>
+<div class="f"></div>
+<div class="h1"></div>
+<div class="h2"></div>
+<div class="h3"></div>
+<style>
+    body {
+        background: #161616;
+    }
+
+    .e {
+        position: absolute;
+        height: 30px;
+        width: 70px;
+        border-bottom-left-radius: 40px;
+        border-bottom-right-radius: 40px;
+        background: #EBAE11;
+    }
+
+    .e1 {
+        left: 137px;
+        top: 161px;
+        transform: rotate(14deg)
+    }
+
+    .e2 {
+        right: 137px;
+        top: 161px;
+        transform: rotate(-14deg);
+    }
+
+    .f {
+        height: 70px;
+        width: 80px;
+        position: absolute;
+        top: 146px;
+        left: 160px;
+        background: linear-gradient(90deg, rgba(255, 255, 255, 1) 50%, rgba(255, 222, 185, 1) 50%);
+        border-bottom-right-radius: 145px;
+        border-bottom-left-radius: 145px;
+    }
+
+    .f::before {
+        content: '';
+        position: absolute;
+        height: 10px;
+        width: 20px;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        background: #161616;
+        top: 50px;
+        left: 30px;
+    }
+
+    .h1 {
+        height: 60px;
+        aspect-ratio: 1;
+        border-radius: 80px 0 80px;
+        background: #EBAE11;
+        rotate: -45deg;
+        margin-top: 95px;
+        margin-left: 162px;
+    }
+
+    .h2, .h3 {
+        height: 60px;
+        width: 30px;
+        border-radius: 100px 0 0 100px;
+        background: #EBAE11;
+        rotate: -30deg;
+        margin: -35px 149px;
+    }
+
+    .h3 {
+        transform: rotateY(180deg) translateY(-29px);
+        rotate: 30deg;
+        margin: 0 190px;
+    }
+</style>
