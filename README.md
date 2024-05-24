@@ -159,6 +159,7 @@
 ### [Battle #19 - Spacing](https://cssbattle.dev/battle/19)
 
 - [#115 - Droplet](https://cssbattle.dev/play/115)
+- [#116 - Headphones](https://cssbattle.dev/play/116)
 
 ### [Battle #20 - Hover](https://cssbattle.dev/battle/20)
 

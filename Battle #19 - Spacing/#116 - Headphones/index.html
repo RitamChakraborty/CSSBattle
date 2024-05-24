@@ -1,0 +1,32 @@
+<div class="a"></div>
+<style>
+    body {
+        background: #293D7E
+    }
+
+    .a {
+        height: 100px;
+        width: 130px;
+        margin-inline: auto;
+        margin-top: 45px;
+        border-radius: 100px 100px 0 0;
+        border: 20px solid #6E91CA;
+        border-bottom: none;
+    }
+
+    .a::before, .a::after {
+        content: '';
+        position: absolute;
+        height: 80px;
+        width: 60px;
+        background: #6E91CA;
+        top: 165px;
+        left: 115px;
+        border-radius: 0 35px 50px 50px;
+    }
+
+    .a::after {
+        transform: rotateY(180deg);
+        left: 225px;
+    }
+</style>
