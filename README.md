@@ -86,6 +86,7 @@
 
 - [#53 - Pastel Logo](https://cssbattle.dev/play/53)
 - [#54 - Black Lives Matter](https://cssbattle.dev/play/54)
+- [#54 - Windmill](https://cssbattle.dev/play/55)
 - [#56 - Skull](https://cssbattle.dev/play/56)
 - [#57 - Pillars](https://cssbattle.dev/play/57)
 - [#58 - Rose](https://cssbattle.dev/play/58)

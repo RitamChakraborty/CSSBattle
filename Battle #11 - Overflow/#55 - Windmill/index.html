@@ -1,0 +1,34 @@
+<style>
+    body {
+        background: #191919;
+    }
+
+    .c, .d {
+        height: 100px;
+        width: 100px;
+        background: #F9E492;
+        border-radius: 50%;
+        clip-path: polygon(0 0, 0 50%, 100% 50%, 100% 0);
+        position: absolute;
+        right: 50%;
+        bottom: calc(50% - 50px);
+        transform-origin: center right;
+    }
+
+    .a, .b {
+        background: #4F77FF;
+        rotate: 90deg;
+    }
+
+    .b {
+        rotate: -90deg;
+    }
+
+    .d {
+        rotate: 180deg;
+    }
+</style>
+<div class="c"></div>
+<div class="a c"></div>
+<div class="b c"></div>
+<div class="d c"></div>
